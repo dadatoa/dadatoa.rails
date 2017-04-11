@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'pages/dadatoa'
+
+  get 'pages/dadatoa'
+
   get 'pages/home'
   root 'pages#home'
   get 'castor' => 'pages#home'

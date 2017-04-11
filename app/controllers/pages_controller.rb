@@ -1,5 +1,7 @@
 class PagesController < ApplicationController
   def home
-	  @variable = 4
+	  @variable = 6
+  end
+  def dadatoa
   end
 end
